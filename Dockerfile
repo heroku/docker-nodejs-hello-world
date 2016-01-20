@@ -1,3 +1,3 @@
 FROM heroku/nodejs
 
-CMD npm start
+CMD bin/web
